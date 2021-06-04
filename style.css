@@ -4,8 +4,22 @@
     box-sizing: border-box;
 }
 
-img {
-    max-width: 30%;
+body {
+    font-size: 18px;
+}
+
+img.myself {
+    max-width: 500px;
     float: right;
-    padding-right: 10%;
+    padding-right: 5%;
+}
+
+.about img {
+    width: 60%;
+    margin-left: 20%;
+}
+
+.container {
+    width: 90%;
+    padding: 0 5%;
 }
