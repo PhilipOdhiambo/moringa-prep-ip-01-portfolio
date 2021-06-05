@@ -25,7 +25,7 @@ $ cd moringa-prep-ip-01-portfolio
 ```
 $ code . 
 ```
-5. Your can open the project on a live server.
+5. Your can open the project on a live server or [checkout on github live page!](https://philipodhiambo.github.io/moringa-prep-ip-01-portfolio/)
 
 ## Known Bugs
 No known bugs yet
