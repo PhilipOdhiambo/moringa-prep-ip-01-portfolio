@@ -7,13 +7,21 @@
 body {
     font-size: 18px;
     color: rgb(36, 20, 20);
-    background-color: gray;
+    background-color: #bba39f;
+    font-family: monospace;
+}
+
+header {
+    background-color: #dcc3be;
+    margin-top: 0;
 }
 
 h1 {
     color: purple;
     font-size: 45px;
-    margin:2rem 0 1rem;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
 }
 
 h2 {
@@ -47,11 +55,9 @@ p {
     line-height: 1.8rem;
 }
 
-img.myself {
-    max-width: 500px;
-    border-radius: 5% 70% 55% 5%;
-    float: right;
-    padding-top: 50px;
+.welcome img {
+    height: 300px;
+    clip-path: circle();
 }
 
 .about img {
@@ -67,17 +73,32 @@ img.myself {
 
 section {
     padding: 1px;
+    border-radius: 3rem;
+    margin:1rem 3rem;
 }
 
 section.welcome {
-    background-color: #eb8258e3;
+    background-color: #eacdc5;
     padding-bottom: 2rem;
     margin-bottom: .5rem;
+    font-family: monospace;
 }
+
+section.welcome .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 section.welcome ul {
-    padding: 0 3rem ;
+    padding: 0 7.5rem ;
+    font-weight: bold;
 }
 
 section.projects {
-    background-color: rgba(230, 139, 169, 0.678);
+    background-color: #e0dbd8
+}
+
+section.about {
+    background-color: #dcc3be;
 }
