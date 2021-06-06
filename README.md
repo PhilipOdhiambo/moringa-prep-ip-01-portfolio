@@ -36,5 +36,5 @@ No known bugs yet
 ## For Support and/or contact
 If you want to contact me conserning the project, email me on philip.owino@student.moringaschool.com
 ### License
-[MIT Licence](https://choosealicense.com/licenses/mit/)
+[MIT Licence](LICENCE)
 Copyright (c) 2021 Philip Owino.
