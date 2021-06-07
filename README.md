@@ -34,7 +34,7 @@ No known bugs yet
 * HTML
 * CSS
 ## For Support and/or contact
-If you want to contact me conserning the project, email me on philip.owino@student.moringaschool.com
+If you want to contact me concerning the project, email me on philip.owino@student.moringaschool.com
 ### License
 [MIT Licence](LICENCE)
 Copyright (c) 2021 Philip Owino.
