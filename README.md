@@ -4,7 +4,7 @@
 #### Author(s): Philip Odhiambo Owino
 
 ## Description
-This website details my journey as a software developer. This is where I document the projects I have build with, live links or repository link as is applicable. I also give an overview of my work experience, education background, skills and hobies, and you get to meet my family.
+This website details my journey as a software developer. This is where I document the projects I have build, with live links or repository links as applicable. I also give an overview of my work experience, education background, skills and hobies, and you get to meet my family.
 
 ## Setup/Installation Requirements
 
